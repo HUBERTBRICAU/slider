@@ -37,7 +37,7 @@ body {
 }
 
 .card-list .card-item .user-image {
-  width: 250px;
+  width: 350px;
   height: 250px;
   border-radius: 10px;
   margin-bottom: 40px;
@@ -48,7 +48,7 @@ body {
 	background-color: #387ACB;
 }
 .card-list .card-item .user-imagebiere {
-  width: 250px;
+  width: 350px;
   height: 221px;
   border-radius: 10px;
   margin-bottom: 40px;
