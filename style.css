@@ -15,6 +15,14 @@ body {
   background-color: rgb(7, 7, 97);
   /* background: url(/images/ball-7280265_640.jpg)rgb(40, 3, 110)  no-repeat center; */
 }
+.entete{
+  color: beige;
+  font-size: 1.8em;
+  font-weight: 550;
+  text-align: center;
+  padding: 35px;
+}
+
 .card-list .card-item {
   color: #fff;
   width: 500px;
