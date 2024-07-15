@@ -77,23 +77,3 @@ h4{
 	-moz-box-shadow: 10px 10px 20px 1px rgba(0, 0, 0, 1);
 	background-color: #387ACB;
 }
-/* .card-list .card-item .user-profession{
-  font-size: 1.15rem;
-  padding: 15px;
-  font-weight: 500;
-  margin: 14px 0 30px;
-} */
-
-/* .card-list .card-item  .message-button{
-  font-size: 15px;
-  font-weight: 600;
-  border: 1px transparent;
-  border-radius: 5px;
-  padding: 10px 15px;
-  transition: 0.4s ease;
-}
-.card-list .card-item  .message-button:hover{
-  background: rgba(255,255,255,0.1);
-  border: solid black 2px;
-  color:#fff;
-} */
