@@ -65,6 +65,18 @@ h4{
   font-weight: 250;
 }
 
+/* ============================================================== */
+.container2 .card-list .card-item .user-image {
+  width: 450px;
+  height: 280px;
+  border-radius: 10px;
+  margin-bottom: 40px;
+  border: solid 2px white ;
+	box-shadow: 10px 10px 20px 1px rgba(0, 0, 0, 1);
+	-webkit-box-shadow: 10px 10px 20px 1px rgba(0, 0, 0, 1);
+	-moz-box-shadow: 10px 10px 20px 1px rgba(0, 0, 0, 1);
+	background-color: #387ACB;
+}
 /* .card-list .card-item .user-profession{
   font-size: 1.15rem;
   padding: 15px;
