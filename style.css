@@ -81,9 +81,14 @@ h4{
 .container2 .card-list .card-item2 .user-image2 {
   width: 450px;
   height: 280px;
+  border: solid 2px rgb(4, 4, 68);
   border-radius: 20px;
 	box-shadow: 10px 10px 20px 1px rgba(0, 0, 0, 1);
 	-webkit-box-shadow: 10px 10px 20px 1px rgba(0, 0, 0, 1);
 	-moz-box-shadow: 10px 10px 20px 1px rgba(0, 0, 0, 1);
 	background-color: #387ACB;
+}
+#verticales{
+  height: 450px;
+  width:280px;
 }
