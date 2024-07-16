@@ -66,12 +66,24 @@ h4{
 }
 
 /* ============================================================== */
-.container2 .card-list .card-item .user-image {
+.card-list .card-item2 {
+  color: #fff;
+  width: 500px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: gray;
+  border-radius: 15px;
+  border: solid black 3px;
+}
+.container2 .card-list .card-item2 .user-image2 {
   width: 450px;
   height: 280px;
-  border-radius: 10px;
-  margin-bottom: 40px;
-  border: solid 2px white ;
+  border: bred 2px solid;
+  border-radius: 20px;
+  border: solid 1px white ;
 	box-shadow: 10px 10px 20px 1px rgba(0, 0, 0, 1);
 	-webkit-box-shadow: 10px 10px 20px 1px rgba(0, 0, 0, 1);
 	-moz-box-shadow: 10px 10px 20px 1px rgba(0, 0, 0, 1);
