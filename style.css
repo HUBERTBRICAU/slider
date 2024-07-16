@@ -37,8 +37,8 @@ body {
 }
 
 .card-list .card-item .user-image {
-  width: 350px;
-  height: 250px;
+  width: 400px;
+  height: 285px;
   border-radius: 10px;
   margin-bottom: 40px;
   border: solid 2px white ;
